@@ -1,14 +1,15 @@
-# H3XO
+# H3XO (VAPESTRESSER)
 
-Cybersecurity researcher with a focus on network analysis, exploit development, and system level automation.  
-Started in private security circles, later transitioned into professional consulting, and now advise on threat analysis and mitigation.
+Researcher and developer with a focus on large scale network stress testing, traffic generation, and system level automation.  
+Originally active in private security circles, I later transitioned into professional consulting with a focus on resilience and performance evaluation of networks and systems.
 
 ---
 
 ## Technical Focus
-- Network analysis and penetration testing  
+- Network stress and resilience testing  
+- Large-scale traffic simulation and obfuscation  
 - Vulnerability research and exploit development  
-- System-level automation and traffic obfuscation  
+- Low level system automation  
 
 ---
 

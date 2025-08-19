@@ -7,7 +7,7 @@ Originally active in private security circles, I later transitioned into profess
 
 ## Technical Focus
 - Network stress and resilience testing  
-- Large-scale traffic simulation and obfuscation  
+- Large scale traffic simulation and obfuscation  
 - Vulnerability research and exploit development  
 - Low level system automation  
 
